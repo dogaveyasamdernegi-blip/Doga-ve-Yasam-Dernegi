@@ -1,0 +1,7 @@
+Bu klasördeki görseller placeholder'dır. Kendi görsellerinizi eklemek için:
+- assets/placeholder1.jpg
+- assets/placeholder2.jpg
+- assets/placeholder3.jpg
+- assets/logo.png
+
+Yerel makinede çalıştırmak için: index.html dosyasını tarayıcıda açın.

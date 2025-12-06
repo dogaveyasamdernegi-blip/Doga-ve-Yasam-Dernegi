@@ -1,0 +1,18 @@
+:root{
+  --primary-color: #2f8f4a;
+  --accent-color: #8ad39a;
+}
+body{
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.hero{
+  background-image: linear-gradient(135deg, rgba(47,143,74,0.08), rgba(138,211,154,0.04));
+}
+.navbar-brand{
+  font-weight:700;
+  color:var(--primary-color) !important;
+}
+.card-img-top{
+  height:180px;
+  object-fit:cover;
+}
